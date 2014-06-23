@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="market_permission_risky_money">Not for free</string>
-    <string name="market_permission_risky_privacy">Privacy related</string>
-    <string name="market_permission_risky_security">Security related</string>
-    <string name="market_permission_extra">Other access</string>
+    <string name="market_permission_risky_money">Ücretsiz değil</string>
+    <string name="market_permission_risky_privacy">Gizlilik ile ilgili</string>
+    <string name="market_permission_risky_security">Güvenlik ile ilgili</string>
+    <string name="market_permission_extra">Diğer erişim</string>
     <string name="market_app_name">App Market</string>
-    <string name="market_recommendation_tag">Featured</string>
-    <string name="market_rank_tag">Ranking</string>
-    <string name="market_category_tag">Category</string>
+    <string name="market_recommendation_tag">Öne çıkan</string>
+    <string name="market_rank_tag">Sıralamak</string>
+    <string name="market_category_tag">Kategori</string>
     <string name="android_common_last_name_prefixes">@string/common_last_name_prefixes</string>
     <string name="android_common_name_conjunctions">@string/common_name_conjunctions</string>
     <string name="android_common_name_prefixes">@string/common_name_prefixes</string>
     <string name="android_common_name_suffixes">@string/common_name_suffixes</string>
-    <string name="market_management_tag">More</string>
-    <string name="market_category_recommend_tag">Featured</string>
+    <string name="market_management_tag">Daha fazla</string>
+    <string name="market_category_recommend_tag">Öne çıkanalr</string>
     <string name="market_hot_rank_tag">Hot</string>
-    <string name="market_new_app_tag">New</string>
-    <string name="market_download_manager_tag">Downloads</string>
-    <string name="market_download_manager_tag_with_nonzero_downloads">Downloads(%1$s/%2$s)</string>
+    <string name="market_new_app_tag">Yeniler</string>
+    <string name="market_download_manager_tag">İndirilenler</string>
+    <string name="market_download_manager_tag_with_nonzero_downloads">indirilenelr(%1$s/%2$s)</string>
     <string name="market_menu_preferences">Settings</string>
     <string name="market_menu_login">Login</string>
     <string name="market_menu_account">My account</string>
